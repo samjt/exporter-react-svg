@@ -1,17 +1,17 @@
 {
-    "id": "io.supernova.react",
-    "name": "React",
-    "description": "React token and style exporter",
+    "id": "com.electrolux.reactsvg",
+    "name": "SVG to Typescript React",
+    "description": "React SVG exporter",
     "source_dir": "src",
-    "version": "1.2.2",
+    "version": "1.0.0",
     "tags": [
         "React",
         "Tokens",
         "Styles"
     ],
-    "author": "Ivan Terpugov & Jiri Trecak",
-    "organization": "Supernova",
-    "homepage": "https://supernova.io",
+    "author": "Sam Thorne",
+    "organization": "Electrolux",
+    "homepage": "https://electrolux.com",
     "usesBrands": true,
     "config": {
         "output": "output.json",
